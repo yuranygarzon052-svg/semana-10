@@ -1,0 +1,4 @@
+1Como ciudadano quiero registrar mi derecho de petición con todos los datos y detalles del caso, para dejar constancia oficial de mi solicitud.
+2 Como ciudadano quiero consultar el estado de mi petición en cualquier momento, para saber cómo avanza mi trámite.
+3 Como revisor quiero recibir una alerta al registrarse una nueva petición, para empezar a revisarla pronto.
+4 Como administrador quiero ver el listado completo de peticiones, para llevar el control del trabajo.

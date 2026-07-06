@@ -1,0 +1,7 @@
+Evento: Se registra una nueva petición de derecho de petición en la plataforma.
+ 
+Acción: Enviar aviso al grupo de Telegram del equipo de revisión.
+ 
+Mensaje: "⚠️ Nueva petición registrada. Por favor revisa el sistema para atenderla pronto."
+ 
+Información que no debería enviarse: Datos personales completos, número de documento, dirección, teléfono, datos bancarios o cualquier información privada y sensible del ciudadano.

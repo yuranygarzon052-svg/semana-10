@@ -1,0 +1,15 @@
+¿Qué 2 tareas del backlog harías primero?
+ 
+1. Como ciudadano quiero registrar mi derecho de petición con todos los datos y detalles del caso, para dejar constancia oficial de mi solicitud.
+2. Como ciudadano quiero consultar el estado de mi petición en cualquier momento, para saber cómo avanza mi trámite.
+ 
+¿Por qué son las más importantes?
+ 
+Porque son lo que la comunidad necesita de verdad: si no se puede registrar ni ver el avance, la herramienta no sirve para nada. Son las funciones básicas que le dan utilidad a todo el proyecto.
+ 
+¿Qué significa para ti que una tarea esté "terminada"?
+ 
+- Hace exactamente lo que se pidió, sin fallos.
+- Se probó varias veces y funciona como debe.
+- Todo el código está subido y guardado en Git.
+- Es fácil de usar y no confunde a quien la usa.
